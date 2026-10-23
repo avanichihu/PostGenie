@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.local
+.next
+.venv
+__pycache__
+*.bak
+*.bak2
+*.bak_*
+*.ts.bak_plans
+*.tsx.bak_plans

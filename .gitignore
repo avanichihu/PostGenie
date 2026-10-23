@@ -1,0 +1,15 @@
+.env
+.venv/
+node_modules/
+dist/
+*.bak*
+*.db
+*.sqlite*
+backend/uploads/
+__pycache__/
+*.bak
+*.bak2
+*.bak_*
+*.ts.bak_plans
+*.tsx.bak_plans
+.env.*
