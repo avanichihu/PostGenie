@@ -134,4 +134,4 @@ SCHEDULER_PORT=8001
 
 ## 📄 License
 
-Built for the Agentic AI Hackathon 2026. Add a license here if you want one (for example MIT).
+Built for the Agentic AI Hackathon 2026. 
