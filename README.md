@@ -91,7 +91,7 @@ cd PostGenie
 
 ```bash
 cd backend
-cp .env.example .env     # then fill in your own values
+cp .env.example .env     
 npm install
 npm start
 ```
