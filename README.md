@@ -4,9 +4,7 @@
 
 Built for the **Agentic AI Hackathon 2026** (powered by Ziro.Digital) by **Team CODZILLA**.
 
-🎥 **Demo video:** `<ADD DEMO VIDEO LINK>`
-🌐 **Live demo:** `<ADD LIVE DEMO LINK, OR DELETE THIS LINE>`
-📊 **Presentation:** https://claude.ai/artifact/QnvAQhSUsyUWSJt4F5dmRU
+🎥 **Demo video:** `https://www.youtube.com/watch?v=6xXnbZJxvpA`
 
 ---
 
@@ -61,7 +59,6 @@ Approve → Approved queue → Mock scheduler → Auto-post
 | Auth | OAuth 2.0 |
 | Scheduler | Mock scheduler (runs on port 8001) |
 
-> ⚠️ Edit this table to match your code exactly (for example Vite vs Next.js).
 
 ## 📁 Project Structure
 
