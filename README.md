@@ -103,7 +103,7 @@ npm run dev
 
 Open the local URL printed in your terminal.
 
-> ⚠️ Replace the commands above with the exact ones your project uses if they differ.
+
 
 ### Environment variables
 
